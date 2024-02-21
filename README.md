@@ -1,5 +1,4 @@
 # MDEC
-Mutli-modality Deep Clustering based on AE
 
 ## paper: https://iopscience.iop.org/article/10.1088/1742-6596/1684/1/012059/pdf
 
